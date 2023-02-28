@@ -15,6 +15,7 @@
 		AF3D980029AD778600A13C2C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3D97FF29AD778600A13C2C /* Constants.swift */; };
 		AF3D980529ADA0BA00A13C2C /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3D980429ADA0BA00A13C2C /* Photo.swift */; };
 		AF3D980829ADBDC400A13C2C /* PhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3D980729ADBDC400A13C2C /* PhotoController.swift */; };
+		AF3D980B29ADC0D100A13C2C /* PhotoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3D980A29ADC0D100A13C2C /* PhotoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AF3D97FF29AD778600A13C2C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AF3D980429ADA0BA00A13C2C /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		AF3D980729ADBDC400A13C2C /* PhotoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoController.swift; sourceTree = "<group>"; };
+		AF3D980A29ADC0D100A13C2C /* PhotoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		AF3D980329AD77C500A13C2C /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				AF3D980A29ADC0D100A13C2C /* PhotoTableViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				AF3D980529ADA0BA00A13C2C /* Photo.swift in Sources */,
 				AF3D97EB29AD776E00A13C2C /* AppDelegate.swift in Sources */,
 				AF3D97ED29AD776E00A13C2C /* SceneDelegate.swift in Sources */,
+				AF3D980B29ADC0D100A13C2C /* PhotoTableViewController.swift in Sources */,
 				AF3D980029AD778600A13C2C /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
